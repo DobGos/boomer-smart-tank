@@ -9,7 +9,7 @@ Worked on this project with my son Bobby (9 years old). We had lots of fun toget
 ### Software 
 * Arduino IDE
 * Source code to install onDCcEle DCcduino Uno
-
+* Any Android application for Smart Car Bluetooth Remote Controller
 
 ### Notes
 * In Arduino IDE use board: Arduino/Genuino Uno - DCcEle DCcduino Uno works fine with it.
